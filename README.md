@@ -40,3 +40,6 @@ Source:[ Ministry of Transport Malaysia Open Data
 - Ridership is on an increasing trend post-pandemic recovery.
 - Both ETS model and ARIMA model shown increasing LRT Kelana Jaya Line ridership in the next 24 months (Aug 2024 - Jul 2026) but at different rates.
 - Conclusion is to support the government to increase number of train sets with continuously monitoring of LRT ridership
+
+### Acknowledgement
+This project was completed as part of a Regression Analysis class assignment at Sunway University. 
